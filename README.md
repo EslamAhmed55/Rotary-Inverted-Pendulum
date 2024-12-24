@@ -14,6 +14,8 @@ The system combines mechanical, electrical, and software components to achieve s
 4. Design and integrate mechanical components with an electronic control system.
 5. Implement a Linear Quadratic Regulator (LQR) for stabilization.
 6. Validate through simulation and Hardware-in-the-Loop (HIL) testing.
+   
+![image](https://github.com/user-attachments/assets/fc2c69f7-d329-4f5c-9913-02576dd4d7d7)
 
 ---
 
@@ -25,6 +27,9 @@ The system combines mechanical, electrical, and software components to achieve s
 - **H-Bridge**: Motor driver for bidirectional control.
 - **Batteries, Bearings, and Couplings**: Supporting hardware for the system.
 - **3D-Printed Parts**: Custom components like brackets and spacers.
+
+  ![image](https://github.com/user-attachments/assets/cc26d900-9ec1-4162-afee-263d26c26ae2)
+
 
 ### Software
 - **SolidWorks**: For mechanical design and CAD modeling.
@@ -39,6 +44,8 @@ The system includes:
 3. **Bearing Assembly**: Reduces friction and aligns mechanical components.
 4. **Motor and Encoder Mounts**: Ensures precise alignment and feedback.
 
+![image](https://github.com/user-attachments/assets/896768da-438c-418f-b9ea-f0ab97c370ad)
+
 ---
 
 ## Hardware Circuit
@@ -46,6 +53,9 @@ The circuit integrates all components, ensuring seamless communication and preci
 - Proper grounding to minimize noise.
 - Organized wiring for reduced interference.
 - Overcurrent protection and thermal management.
+  
+  ![image](https://github.com/user-attachments/assets/56a4471b-4bab-40ba-99e8-a61e092935f3)
+
 ---
 
 ## Parameter Estimation
@@ -53,6 +63,12 @@ System parameters were estimated by:
 1. Collecting voltage and angular velocity data.
 2. Using MATLAB's Parameter Estimation Toolbox.
 3. Modeling and validating results in Simulink.
+   
+   ![image](https://github.com/user-attachments/assets/0c94baa1-16df-49ae-8c34-a0e4a6ea70e6)
+   
+   ![image](https://github.com/user-attachments/assets/c160f6f5-ab1e-45f6-b35b-ebc04c53515c)
+
+
 ---
 
 ## Control Design
