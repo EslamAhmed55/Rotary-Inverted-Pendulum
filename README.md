@@ -30,6 +30,7 @@ The system combines mechanical, electrical, and software components to achieve s
 
   ![image](https://github.com/user-attachments/assets/cc26d900-9ec1-4162-afee-263d26c26ae2)
 
+---
 
 ### Software
 - **SolidWorks**: For mechanical design and CAD modeling.
