@@ -104,7 +104,6 @@ https://github.com/user-attachments/assets/2c234a89-eb0c-4679-b708-453d3e55b6c0
 
 ---
 
-
 ## Resources
 1. Research Paper: [Modeling and control of a rotary inverted pendulum](https://ieeexplore.ieee.org/document/5589450)
 2. MATLAB Documentation: [LQR Control](https://www.mathworks.com/help/control/ref/lti.lqr.html)
